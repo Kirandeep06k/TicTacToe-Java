@@ -1,0 +1,115 @@
+Welcome to tic-tac-toe game!
+
+The program enters X for player 1 and O for player 2
+
+Player 1 Enter your name
+Kiran
+
+Player 2 Enter your name
+Daisy
+
+*Note* : You are required to enter your placements(1-9) when your turn comes
+ | | 
+-+-+-
+ | | 
+-+-+-
+ | | 
+Kiran enter your placement
+3
+ | |X
+-+-+-
+ | | 
+-+-+-
+ | | 
+Daisy enter your placement
+2
+ |O|X
+-+-+-
+ | | 
+-+-+-
+ | | 
+Kiran enter your placement
+2
+Invalid placement or position already filled. Try again!
+Kiran enter your placement
+7
+ |O|X
+-+-+-
+ | | 
+-+-+-
+X| | 
+Daisy enter your placement
+9
+ |O|X
+-+-+-
+ | | 
+-+-+-
+X| |O
+Kiran enter your placement
+1
+X|O|X
+-+-+-
+ | | 
+-+-+-
+X| |O
+Daisy enter your placement
+4
+X|O|X
+-+-+-
+O| | 
+-+-+-
+X| |O
+Kiran enter your placement
+5
+X|O|X
+-+-+-
+O|X| 
+-+-+-
+X| |O
+Kiran wins
+Do you want to play again? (yes/no)
+yes
+ | | 
+-+-+-
+ | | 
+-+-+-
+ | | 
+Kiran enter your placement
+5
+ | | 
+-+-+-
+ |X| 
+-+-+-
+ | | 
+Daisy enter your placement
+2
+ |O| 
+-+-+-
+ |X| 
+-+-+-
+ | | 
+Kiran enter your placement
+9
+ |O| 
+-+-+-
+ |X| 
+-+-+-
+ | |X
+Daisy enter your placement
+3
+ |O|O
+-+-+-
+ |X| 
+-+-+-
+ | |X
+Kiran enter your placement
+1
+X|O|O
+-+-+-
+ |X| 
+-+-+-
+ | |X
+Kiran wins
+Do you want to play again? (yes/no)
+no
+-----------Game Over. Thank you for playing!------------
