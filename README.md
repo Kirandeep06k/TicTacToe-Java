@@ -1,5 +1,10 @@
 # TicTacToe-Java
+A simple 2-player Tic Tac Toe game that runs in the console, built using Java.
 
-A simple tic tac toe game that runs in the console, made using Java. Players enter their names and take turns choosing positions(1-9) to place X or O. The game checks for a win or a tie and asks if you want to play again.
+# How to Play?
+Enter player names.
+Choose positions (1-9) to place X or O.
+The game checks for a win or tie.
+Option to play again after each match.
 
-Made by Kirandeep Kaur
+# Made by Kirandeep Kaur
